@@ -7,7 +7,7 @@ local cb = require('plugin.chatterbox')
 
 --#############################################################################
 --# Coronium ChatterBox
-local host_ip = '45.55.150.71'
+local host_ip = '<chatterbox-ip>'
 local debug_mode = true
 --#############################################################################
 
